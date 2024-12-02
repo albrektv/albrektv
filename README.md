@@ -5,5 +5,7 @@
 أنا عبدالعزيز، مطور ألعاب ومبرمج. قريباً سأقوم بتحديث هذا الملف ليعكس شغفي وأعمالي ومشاريعي القادمة.
 
 ---
-![image](https://github.com/user-attachments/assets/1a9b3b00-eeb9-4dda-8a47-ae3a7c11e8c5)
+### 🐍 مساهماتي:
+![Snake animation](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
